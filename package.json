@@ -9,7 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "van-jsx": "^0.0.14"
+    "van-jsx": "^0.0.15"
   },
   "devDependencies": {
     "typescript": "^5.0.2",
